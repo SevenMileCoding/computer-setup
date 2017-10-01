@@ -1,5 +1,11 @@
 # computer-setup
 Setup scripts for windows 10 laptops
+
+# Python
+Install python 3
+## Pip modules
+tbd
+
 # Filesystem
 Directory for code (~/code is fine, or whatever makes sense)
 
