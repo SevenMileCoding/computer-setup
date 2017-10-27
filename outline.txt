@@ -1,0 +1,28 @@
+# fresh install if possible
+# use settings
+
+connect to wifi
+install python
+	pip install any modules (7mc)
+install git
+install vs code
+install vs code extensions (need to restart or use full path to code)
+install vs code user settings
+install google chrome
+	bookmarks?
+make chrome default browser
+
+pin to taskbar (file explorer, chrome, vs code) rm everything else
+pin to start menu (chrome, vscode)
+
+create code folder
+create resources folder
+
+pull any starter code and resources into appr folder
+
+create desktop shortcuts to vscode, chrome, code folder, resources folder, 7mc.org, piazza, stackoverflow
+
+system settings (power)
+set vs code as startup app
+
+# future: install ubuntu dual booted
